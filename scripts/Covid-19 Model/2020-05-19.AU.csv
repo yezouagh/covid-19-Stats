@@ -1,0 +1,9 @@
+Country name,Country Code,State,State name,Confirmed,Recovered,Deaths
+australia,AU,AU-NT,Northern Territory,0,0,0
+australia,AU,AU-WA,Western Australia,0,0,0
+australia,AU,AU-ACT,Australian Capital Territory,0,0,0
+australia,AU,AU-NSW,New South Wales,0,0,0
+australia,AU,AU-SA,South Australia,0,0,0
+australia,AU,AU-VIC,Victoria,0,0,0
+australia,AU,AU-QLD,Queensland,0,0,0
+australia,AU,AU-TAS,Tasmania,0,0,0

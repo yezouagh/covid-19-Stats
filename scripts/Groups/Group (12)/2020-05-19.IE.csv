@@ -1,0 +1,17 @@
+Country name,Country Code,State,State name,Confirmed,Recovered,Deaths
+uk,GB,GB-SCT,Scotland,0,0,0
+uk,GB,GB-UKC,North East England,0,0,0
+uk,GB,GB-UKD,North West England,0,0,0
+uk,GB,GB-UKE,Yorkshire and the Humber,0,0,0
+uk,GB,GB-UKF,East Midlands,0,0,0
+uk,GB,GB-UKG,West Midlands,0,0,0
+uk,GB,GB-UKH,East of England,0,0,0
+uk,GB,GB-UKI,Greater London,0,0,0
+uk,GB,GB-UKJ,South East England,0,0,0
+uk,GB,GB-UKK,South West England,0,0,0
+uk,GB,GB-WLS,Wales,0,0,0
+uk,GB,GB-NIR,Northern Ireland,0,0,0
+uk,GG,GG,Guernsey,0,0,0
+uk,JE,JE,Jersey,0,0,0
+uk,IM,IM,Isle of Man,0,0,0
+uk,IE,IE,Ireland,0,0,0

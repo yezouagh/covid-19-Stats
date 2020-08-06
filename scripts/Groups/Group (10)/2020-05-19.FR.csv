@@ -1,0 +1,14 @@
+Country name,Country Code,State,State name,Confirmed,Recovered,Deaths
+france,FR,FR-PAC,Provence-Alpes-Cote dAzur,0,0,0
+france,FR,FR-PDL,Pays de la Loire,0,0,0
+france,FR,FR-OCC,Occitanie,0,0,0
+france,FR,FR-NAQ,Nouvelle-Aquitaine,0,0,0
+france,FR,FR-NOR,Normandie,0,0,0
+france,FR,FR-IDF,Ile-de-France,0,0,0
+france,FR,FR-HDF,Hauts-de-France,0,0,0
+france,FR,FR-GES,Grand Est,0,0,0
+france,FR,FR-COR,Corse,0,0,0
+france,FR,FR-CVL,Centre-Val de Loire,0,0,0
+france,FR,FR-BRE,Bretagne,0,0,0
+france,FR,FR-BFC,Bourgogne-Franche-Comte,0,0,0
+france,FR,FR-ARA,Auvergne-Rhone-Alpes,0,0,0

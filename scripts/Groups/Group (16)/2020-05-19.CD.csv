@@ -1,0 +1,27 @@
+Country name,Country Code,State,State name,Confirmed,Recovered,Deaths
+congoDR,CD,CD-BC,Kongo Central,0,0,0
+congoDR,CD,CD-BU,Bas-Uele,0,0,0
+congoDR,CD,CD-EQ,Equateur,0,0,0
+congoDR,CD,CD-HK,Haut-Katanga,0,0,0
+congoDR,CD,CD-HL,Haut-Lomami,0,0,0
+congoDR,CD,CD-HU,Haut-Uele,0,0,0
+congoDR,CD,CD-IT,Ituri,0,0,0
+congoDR,CD,CD-KC,Kasai Central,0,0,0
+congoDR,CD,CD-KE,Kasai-Oriental,0,0,0
+congoDR,CD,CD-KG,Kwango,0,0,0
+congoDR,CD,CD-KL,Kwilu,0,0,0
+congoDR,CD,CD-KN,Kinshasa City,0,0,0
+congoDR,CD,CD-KS,Kasai,0,0,0
+congoDR,CD,CD-LO,Lomami,0,0,0
+congoDR,CD,CD-LU,Lualaba,0,0,0
+congoDR,CD,CD-MA,Maniema,0,0,0
+congoDR,CD,CD-MN,Mai-Ndombe,0,0,0
+congoDR,CD,CD-MO,Mongala,0,0,0
+congoDR,CD,CD-NK,Nord-Kivu,0,0,0
+congoDR,CD,CD-NU,Nord-Ubangi,0,0,0
+congoDR,CD,CD-SA,Sankuru,0,0,0
+congoDR,CD,CD-SK,Sud-Kivu,0,0,0
+congoDR,CD,CD-SU,Sud-Ubangi,0,0,0
+congoDR,CD,CD-TA,Tanganyika,0,0,0
+congoDR,CD,CD-TO,Tshopo,0,0,0
+congoDR,CD,CD-TU,Tshuapa,0,0,0

@@ -1,0 +1,35 @@
+Country name,Country Code,State,State name,Confirmed,Recovered,Deaths
+china,CN,CN-AH,Anhui,0,0,0
+china,CN,CN-BJ,Beijing,0,0,0
+china,CN,CN-CQ,Chongqing,0,0,0
+china,CN,CN-FJ,Fujian,0,0,0
+china,CN,CN-GD,Guangdong,0,0,0
+china,CN,CN-GS,Gansu,0,0,0
+china,CN,CN-GX,Guangxi Zhuang,0,0,0
+china,CN,CN-GZ,Guizhou,0,0,0
+china,CN,CN-HA,Henan,0,0,0
+china,CN,CN-HB,Hubei,0,0,0
+china,CN,CN-HE,Hebei,0,0,0
+china,CN,CN-HI,Hainan,0,0,0
+china,CN,CN-HK,Hong Kong,0,0,0
+china,CN,CN-HL,Heilongjiang,0,0,0
+china,CN,CN-HN,Hunan,0,0,0
+china,CN,CN-JL,Jilin,0,0,0
+china,CN,CN-JX,Jiangsu,0,0,0
+china,CN,CN-36,Jiangxi,0,0,0
+china,CN,CN-LN,Liaoning,0,0,0
+china,CN,CN-MO,Macau,0,0,0
+china,CN,CN-NM,Nei Mongol,0,0,0
+china,CN,CN-NX,Ningxia Hui,0,0,0
+china,CN,CN-QH,Qinghai,0,0,0
+china,CN,CN-SC,Sichuan,0,0,0
+china,CN,CN-SD,Shandong,0,0,0
+china,CN,CN-SH,Shanghai,0,0,0
+china,CN,CN-SN,Shaanxi,0,0,0
+china,CN,CN-SX,Shanxi,0,0,0
+china,CN,CN-TJ,Tianjin,0,0,0
+china,CN,CN-TW,Taiwan,0,0,0
+china,CN,CN-XJ,Xinjiang Uygur,0,0,0
+china,CN,CN-XZ,Xizang (Tibet),0,0,0
+china,CN,CN-YN,Yunnan,0,0,0
+china,CN,CN-ZJ,Zhejiang,0,0,0

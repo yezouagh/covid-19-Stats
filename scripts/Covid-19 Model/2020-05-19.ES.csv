@@ -1,0 +1,18 @@
+Country name,Country Code,State,State name,Confirmed,Recovered,Deaths
+spain,ES,ES-VC,Valencia,0,0,0
+spain,ES,ES-PV,Pais Vasco,0,0,0
+spain,ES,ES-IB,Islas Baleares,0,0,0
+spain,ES,ES-NC,Navarra,0,0,0
+spain,ES,ES-MC,Murcia,0,0,0
+spain,ES,ES-MD,Madrid,0,0,0
+spain,ES,ES-RI,La Rioja,0,0,0
+spain,ES,ES-GA,Galicia,0,0,0
+spain,ES,ES-EX,Extremadura,0,0,0
+spain,ES,ES-CT,Cataluna,0,0,0
+spain,ES,ES-CN,Islas Canarias,0,0,0
+spain,ES,ES-CM,Castilla-La Mancha,0,0,0
+spain,ES,ES-CL,Castilla y Leon,0,0,0
+spain,ES,ES-CB,Cantabria,0,0,0
+spain,ES,ES-AS,Asturias,0,0,0
+spain,ES,ES-AR,Aragon,0,0,0
+spain,ES,ES-AN,Andalucia,0,0,0

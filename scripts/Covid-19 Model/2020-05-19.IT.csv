@@ -1,0 +1,28 @@
+Country name,Country Code,State,State name,Confirmed,Recovered,Deaths
+switzerland,CH,CH-AG,Aargau,0,0,0
+switzerland,CH,CH-AI,Appenzell Inner-Rhoden,0,0,0
+switzerland,CH,CH-AR,Appenzell Ausser-Rhoden,0,0,0
+switzerland,CH,CH-BL,Basel-Landschaft,0,0,0
+switzerland,CH,CH-BE,Bern,0,0,0
+switzerland,CH,CH-BS,Basel-Stadt,0,0,0
+switzerland,CH,CH-FR,Fribourg,0,0,0
+switzerland,CH,CH-GE,Geneve,0,0,0
+switzerland,CH,CH-GL,Glarus,0,0,0
+switzerland,CH,CH-GR,Graubunden,0,0,0
+switzerland,CH,CH-JU,Jura,0,0,0
+switzerland,CH,CH-LU,Luzern,0,0,0
+switzerland,CH,CH-NE,Neuchatel,0,0,0
+switzerland,CH,CH-NW,Nidwalden,0,0,0
+switzerland,CH,CH-OW,Obwalden,0,0,0
+switzerland,CH,CH-SG,Sankt Gallen,0,0,0
+switzerland,CH,CH-SH,Schaffhausen,0,0,0
+switzerland,CH,CH-SO,Solothurn,0,0,0
+switzerland,CH,CH-SZ,Schwyz,0,0,0
+switzerland,CH,CH-TG,Thurgau,0,0,0
+switzerland,CH,CH-TI,Ticino,0,0,0
+switzerland,CH,CH-UR,Uri,0,0,0
+switzerland,CH,CH-VD,Vaud,0,0,0
+switzerland,CH,CH-VS,Valais,0,0,0
+switzerland,CH,CH-ZG,Zug,0,0,0
+switzerland,CH,CH-ZH,Zurich,0,0,0
+switzerland,IT,IT-CO,Campione dItalia,0,0,0

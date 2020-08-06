@@ -1,0 +1,19 @@
+Country name,Country Code,State,State name,Confirmed,Recovered,Deaths
+hongKong,HK,HK-YT,Yau Tsim Mong,0,0,0
+hongKong,HK,HK-YL,Yuen Long,0,0,0
+hongKong,HK,HK-WT,Wong Tai Sin,0,0,0
+hongKong,HK,HK-WC,Wan Chai,0,0,0
+hongKong,HK,HK-TW,Tsuen Wan,0,0,0
+hongKong,HK,HK-TP,Tai Po,0,0,0
+hongKong,HK,HK-TM,Tuen Mun,0,0,0
+hongKong,HK,HK-ST,Sha Tin,0,0,0
+hongKong,HK,HK-SS,Sham Shui Po,0,0,0
+hongKong,HK,HK-SO,Southern,0,0,0
+hongKong,HK,HK-SK,Sai Kung,0,0,0
+hongKong,HK,HK-NO,North,0,0,0
+hongKong,HK,HK-KU,Kwun Tong,0,0,0
+hongKong,HK,HK-KI,Kwai Tsing,0,0,0
+hongKong,HK,HK-KC,Kowloon City,0,0,0
+hongKong,HK,HK-IS,Islands,0,0,0
+hongKong,HK,HK-EA,Eastern,0,0,0
+hongKong,HK,HK-CW,Central and Western,0,0,0

@@ -1,0 +1,14 @@
+Country name,Country Code,State,State name,Confirmed,Recovered,Deaths
+canada,CA,CA-AB,Alberta,0,0,0
+canada,CA,CA-BC,British Columbia,0,0,0
+canada,CA,CA-MB,Manitoba,0,0,0
+canada,CA,CA-NB,New Brunswick,0,0,0
+canada,CA,CA-NL,Newfoundland and Labrador,0,0,0
+canada,CA,CA-NS,Nova Scotia,0,0,0
+canada,CA,CA-NT,Northwest Territories,0,0,0
+canada,CA,CA-NU,Nunavut,0,0,0
+canada,CA,CA-ON,Ontario,0,0,0
+canada,CA,CA-PE,Prince Edward Island,0,0,0
+canada,CA,CA-QC,Quebec,0,0,0
+canada,CA,CA-SK,Saskatchewan,0,0,0
+canada,CA,CA-YT,Yukon,0,0,0

@@ -1,0 +1,37 @@
+Country name,Country Code,State,State name,Confirmed,Recovered,Deaths
+india,IN,IN-AN,Andaman and Nicobar Islands,0,0,0
+india,IN,IN-AP,Andhra Pradesh,0,0,0
+india,IN,IN-AR,Arunachal Pradesh,0,0,0
+india,IN,IN-AS,Assam,0,0,0
+india,IN,IN-BR,Bihar,0,0,0
+india,IN,IN-CH,Chandigarh,0,0,0
+india,IN,IN-CT,Chhattisgarh,0,0,0
+india,IN,IN-DD,Daman and Diu,0,0,0
+india,IN,IN-DL,Delhi,0,0,0
+india,IN,IN-DN,Dadra and Nagar Haveli,0,0,0
+india,IN,IN-GA,Goa,0,0,0
+india,IN,IN-GJ,Gujarat,0,0,0
+india,IN,IN-HP,Himachal Pradesh,0,0,0
+india,IN,IN-HR,Haryana,0,0,0
+india,IN,IN-JH,Jharkhand,0,0,0
+india,IN,IN-JK,Jammu and Kashmir,0,0,0
+india,IN,IN-KA,Karnataka,0,0,0
+india,IN,IN-KL,Kerala,0,0,0
+india,IN,IN-LD,Lakshadweep,0,0,0
+india,IN,IN-MH,Maharashtra,0,0,0
+india,IN,IN-ML,Meghalaya,0,0,0
+india,IN,IN-MN,Manipur,0,0,0
+india,IN,IN-MP,Madhya Pradesh,0,0,0
+india,IN,IN-MZ,Mizoram,0,0,0
+india,IN,IN-NL,Nagaland,0,0,0
+india,IN,IN-OR,Odisha,0,0,0
+india,IN,IN-PB,Punjab,0,0,0
+india,IN,IN-PY,Puducherry,0,0,0
+india,IN,IN-RJ,Rajasthan,0,0,0
+india,IN,IN-SK,Sikkim,0,0,0
+india,IN,IN-TG,Telangana,0,0,0
+india,IN,IN-TN,Tamil Nadu,0,0,0
+india,IN,IN-TR,Tripura,0,0,0
+india,IN,IN-UP,Uttar Pradesh,0,0,0
+india,IN,IN-UT,Uttarakhand,0,0,0
+india,IN,IN-WB,West Bengal,0,0,0

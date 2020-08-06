@@ -1,0 +1,28 @@
+Country name,Country Code,State,State name,Confirmed,Recovered,Deaths
+peru,PE,PE-AMA,Amazonas,0,0,0
+peru,PE,PE-ANC,Ancash,0,0,0
+peru,PE,PE-APU,Apurimac,0,0,0
+peru,PE,PE-ARE,Arequipa,0,0,0
+peru,PE,PE-AYA,Ayacucho,0,0,0
+peru,PE,PE-CAJ,Cajamarca,0,0,0
+peru,PE,PE-CAL,El Callao,0,0,0
+peru,PE,PE-CUS,Cusco,0,0,0
+peru,PE,PE-HUC,Huanuco,0,0,0
+peru,PE,PE-HUV,Huancavelica,0,0,0
+peru,PE,PE-ICA,Ica,0,0,0
+peru,PE,PE-JUN,Junin,0,0,0
+peru,PE,PE-LAL,La Libertad,0,0,0
+peru,PE,PE-LAM,Lambayeque,0,0,0
+peru,PE,PE-LIM,Lima,0,0,0
+peru,PE,PE-LMA,Lima Province,0,0,0
+peru,PE,PE-LOR,Loreto,0,0,0
+peru,PE,PE-MDD,Madre de Dios,0,0,0
+peru,PE,PE-MOQ,Moquegua,0,0,0
+peru,PE,PE-PAS,Pasco,0,0,0
+peru,PE,PE-PIU,Piura,0,0,0
+peru,PE,PE-PUN,Puno,0,0,0
+peru,PE,PE-SAM,San Martin,0,0,0
+peru,PE,PE-TAC,Tacna,0,0,0
+peru,PE,PE-TUM,Tumbes,0,0,0
+peru,PE,PE-UCA,Ucayali,0,0,0
+peru,PE,PE-LKT,Lake Titicaca,0,0,0

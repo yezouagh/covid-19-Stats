@@ -1,0 +1,11 @@
+Country name,Country Code,State,State name,Confirmed,Recovered,Deaths
+southAfrica,LS,LS,Lesotho,0,0,0
+southAfrica,ZA,ZA-EC,Eastern Cape,0,0,0
+southAfrica,ZA,ZA-FS,Free State,0,0,0
+southAfrica,ZA,ZA-GT,Gauteng,0,0,0
+southAfrica,ZA,ZA-LP,Limpopo,0,0,0
+southAfrica,ZA,ZA-MP,Mpumalanga,0,0,0
+southAfrica,ZA,ZA-NC,Northern Cape,0,0,0
+southAfrica,ZA,ZA-NL,KwaZulu-Natal,0,0,0
+southAfrica,ZA,ZA-NW,North West,0,0,0
+southAfrica,ZA,ZA-WC,Western Cape,0,0,0

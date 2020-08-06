@@ -1,0 +1,213 @@
+Country name,Country Code,State,State name,Confirmed,Recovered,Deaths
+slovenia,SI,SI-073,Metlika,0,0,0
+slovenia,SI,SI-001,Ajdovscina,0,0,0
+slovenia,SI,SI-213,Ankaran,0,0,0
+slovenia,SI,SI-195,Apace,0,0,0
+slovenia,SI,SI-002,Beltinci,0,0,0
+slovenia,SI,SI-148,Benedikt,0,0,0
+slovenia,SI,SI-149,Bistrica ob Sotli,0,0,0
+slovenia,SI,SI-003,Bled,0,0,0
+slovenia,SI,SI-150,Bloke,0,0,0
+slovenia,SI,SI-004,Bohinj,0,0,0
+slovenia,SI,SI-005,Borovnica,0,0,0
+slovenia,SI,SI-006,Bovec,0,0,0
+slovenia,SI,SI-151,Braslovce,0,0,0
+slovenia,SI,SI-007,Brda,0,0,0
+slovenia,SI,SI-008,Brezovica,0,0,0
+slovenia,SI,SI-009,Brezice,0,0,0
+slovenia,SI,SI-152,Cankova,0,0,0
+slovenia,SI,SI-011,Celje,0,0,0
+slovenia,SI,SI-012,Cerklje na Gorenjskem,0,0,0
+slovenia,SI,SI-013,Cerknica,0,0,0
+slovenia,SI,SI-014,Cerkno,0,0,0
+slovenia,SI,SI-152,Cerkvenjak,0,0,0
+slovenia,SI,SI-196,Cirkulane,0,0,0
+slovenia,SI,SI-018,Destrnik,0,0,0
+slovenia,SI,SI-019,Divaca,0,0,0
+slovenia,SI,SI-154,Dobje,0,0,0
+slovenia,SI,SI-020,Dobrepolje,0,0,0
+slovenia,SI,SI-155,Dobrna,0,0,0
+slovenia,SI,SI-021,Dobrova-Polhov Gradec,0,0,0
+slovenia,SI,SI-156,Dobrovnik,0,0,0
+slovenia,SI,SI-022,Dol pri Ljubljani,0,0,0
+slovenia,SI,SI-157,Dolenjske Toplice,0,0,0
+slovenia,SI,SI-023,Domzale,0,0,0
+slovenia,SI,SI-024,Dornava,0,0,0
+slovenia,SI,SI-025,Dravograd,0,0,0
+slovenia,SI,SI-026,Duplek,0,0,0
+slovenia,SI,SI-027,Gorenja vas-Poljane,0,0,0
+slovenia,SI,SI-028,Gori?nica,0,0,0
+slovenia,SI,SI-207,Gorje,0,0,0
+slovenia,SI,SI-029,Gornja Radgona,0,0,0
+slovenia,SI,SI-030,Gornji Grad,0,0,0
+slovenia,SI,SI-031,Gornji Petrovci,0,0,0
+slovenia,SI,SI-158,Grad,0,0,0
+slovenia,SI,SI-032,Grosuplje,0,0,0
+slovenia,SI,SI-159,Hajdina,0,0,0
+slovenia,SI,SI-161,Hodos,0,0,0
+slovenia,SI,SI-162,Horjul,0,0,0
+slovenia,SI,SI-160,Hoce-Slivnica,0,0,0
+slovenia,SI,SI-034,Hrastnik,0,0,0
+slovenia,SI,SI-035,Hrpelje-Kozina,0,0,0
+slovenia,SI,SI-036,Idrija,0,0,0
+slovenia,SI,SI-037,Ig,0,0,0
+slovenia,SI,SI-038,Ilirska Bistrica,0,0,0
+slovenia,SI,SI-039,Ivancna Gorica,0,0,0
+slovenia,SI,SI-040,Izola,0,0,0
+slovenia,SI,SI-041,Jesenice,0,0,0
+slovenia,SI,SI-163,Jezersko,0,0,0
+slovenia,SI,SI-042,Jursinci,0,0,0
+slovenia,SI,SI-043,Kamnik,0,0,0
+slovenia,SI,SI-044,Kanal,0,0,0
+slovenia,SI,SI-045,Kidricevo,0,0,0
+slovenia,SI,SI-046,Kobarid,0,0,0
+slovenia,SI,SI-047,Kobilje,0,0,0
+slovenia,SI,SI-049,Komen,0,0,0
+slovenia,SI,SI-164,Komenda,0,0,0
+slovenia,SI,SI-050,Koper,0,0,0
+slovenia,SI,SI-197,Kostanjevica na Krki,0,0,0
+slovenia,SI,SI-165,Kostel,0,0,0
+slovenia,SI,SI-051,Kozje,0,0,0
+slovenia,SI,SI-048,Kocevje,0,0,0
+slovenia,SI,SI-052,Kranj,0,0,0
+slovenia,SI,SI-053,Kranjska Gora,0,0,0
+slovenia,SI,SI-166,Krizevci,0,0,0
+slovenia,SI,SI-054,Krsko,0,0,0
+slovenia,SI,SI-055,Kungota,0,0,0
+slovenia,SI,SI-056,Kuzma,0,0,0
+slovenia,SI,SI-057,Lasko,0,0,0
+slovenia,SI,SI-058,Lenart,0,0,0
+slovenia,SI,SI-059,Lendava,0,0,0
+slovenia,SI,SI-060,Litija,0,0,0
+slovenia,SI,SI-061,Ljubljana,0,0,0
+slovenia,SI,SI-062,Ljubno,0,0,0
+slovenia,SI,SI-063,Ljutomer,0,0,0
+slovenia,SI,SI-208,Log-Dragomer,0,0,0
+slovenia,SI,SI-064,Logatec,0,0,0
+slovenia,SI,SI-167,Lovrenc na Pohorju,0,0,0
+slovenia,SI,SI-065,Loska Dolina,0,0,0
+slovenia,SI,SI-066,Loski Potok,0,0,0
+slovenia,SI,SI-068,Lukovica,0,0,0
+slovenia,SI,SI-067,Luce,0,0,0
+slovenia,SI,SI-069,Majsperk,0,0,0
+slovenia,SI,SI-198,Makole,0,0,0
+slovenia,SI,SI-070,Maribor,0,0,0
+slovenia,SI,SI-168,Markovci,0,0,0
+slovenia,SI,SI-071,Medvode,0,0,0
+slovenia,SI,SI-072,Menges,0,0,0
+slovenia,SI,SI-074,Mezica,0,0,0
+slovenia,SI,SI-169,Miklavz na Dravskem Polju,0,0,0
+slovenia,SI,SI-075,Miren-Kostanjevica,0,0,0
+slovenia,SI,SI-212,Mirna,0,0,0
+slovenia,SI,SI-170,Mirna Pec,0,0,0
+slovenia,SI,SI-076,Mislinja,0,0,0
+slovenia,SI,SI-199,Mokronog-Trebelno,0,0,0
+slovenia,SI,SI-078,Moravske Toplice,0,0,0
+slovenia,SI,SI-077,Moravce,0,0,0
+slovenia,SI,SI-079,Mozirje,0,0,0
+slovenia,SI,SI-080,Murska Sobota,0,0,0
+slovenia,SI,SI-081,Muta,0,0,0
+slovenia,SI,SI-082,Naklo,0,0,0
+slovenia,SI,SI-083,Nazarje,0,0,0
+slovenia,SI,SI-084,Nova Gorica,0,0,0
+slovenia,SI,SI-085,Novo Mesto,0,0,0
+slovenia,SI,SI-086,Odranci,0,0,0
+slovenia,SI,SI-171,Oplotnica,0,0,0
+slovenia,SI,SI-087,Ormoz,0,0,0
+slovenia,SI,SI-088,Osilnica,0,0,0
+slovenia,SI,SI-089,Pesnica,0,0,0
+slovenia,SI,SI-090,Piran,0,0,0
+slovenia,SI,SI-091,Pivka,0,0,0
+slovenia,SI,SI-172,Podlehnik,0,0,0
+slovenia,SI,SI-093,Podvelka,0,0,0
+slovenia,SI,SI-092,Podcetrtek,0,0,0
+slovenia,SI,SI-200,Poljcane,0,0,0
+slovenia,SI,SI-173,Polzela,0,0,0
+slovenia,SI,SI-094,Postojna,0,0,0
+slovenia,SI,SI-174,Prebold,0,0,0
+slovenia,SI,SI-095,Preddvor,0,0,0
+slovenia,SI,SI-175,Prevalje,0,0,0
+slovenia,SI,SI-096,Ptuj,0,0,0
+slovenia,SI,SI-097,Puconci,0,0,0
+slovenia,SI,SI-100,Radenci,0,0,0
+slovenia,SI,SI-099,Radece,0,0,0
+slovenia,SI,SI-100,Radlje ob Dravi,0,0,0
+slovenia,SI,SI-102,Radovljica,0,0,0
+slovenia,SI,SI-103,Ravne na Koroskem,0,0,0
+slovenia,SI,SI-176,Razkrizje,0,0,0
+slovenia,SI,SI-098,Race-Fram,0,0,0
+slovenia,SI,SI-201,Rence-Vogrsko,0,0,0
+slovenia,SI,SI-209,Recica ob Savinji,0,0,0
+slovenia,SI,SI-104,Ribnica,0,0,0
+slovenia,SI,SI-177,Ribnica na Pohorju,0,0,0
+slovenia,SI,SI-107,Rogatec,0,0,0
+slovenia,SI,SI-106,Rogaska Slatina,0,0,0
+slovenia,SI,SI-105,Rogasovci,0,0,0
+slovenia,SI,SI-108,Ruse,0,0,0
+slovenia,SI,SI-178,Selnica ob Dravi,0,0,0
+slovenia,SI,SI-109,Semic,0,0,0
+slovenia,SI,SI-110,Sevnica,0,0,0
+slovenia,SI,SI-111,Sezana,0,0,0
+slovenia,SI,SI-112,Slovenj Gradec,0,0,0
+slovenia,SI,SI-113,Slovenska Bistrica,0,0,0
+slovenia,SI,SI-114,Slovenske Konjice,0,0,0
+slovenia,SI,SI-179,Sodrazica,0,0,0
+slovenia,SI,SI-180,Solcava,0,0,0
+slovenia,SI,SI-202,Sredisce ob Dravi,0,0,0
+slovenia,SI,SI-115,Starse,0,0,0
+slovenia,SI,SI-203,Straza,0,0,0
+slovenia,SI,SI-204,Sveta Trojica v Slovenskih Goricah,0,0,0
+slovenia,SI,SI-181,Sveta Ana,0,0,0
+slovenia,SI,SI-182,Sveti Andraz v Slovenskih Goricah,0,0,0
+slovenia,SI,SI-116,Sveti Jurij ob Scavnici,0,0,0
+slovenia,SI,SI-210,Sveti Jurij v Slovenskih Goricah,0,0,0
+slovenia,SI,SI-205,Sveti Tomaz,0,0,0
+slovenia,SI,SI-184,Tabor,0,0,0
+slovenia,SI,SI-010,Tisina,0,0,0
+slovenia,SI,SI-128,Tolmin,0,0,0
+slovenia,SI,SI-129,Trbovlje,0,0,0
+slovenia,SI,SI-130,Trebnje,0,0,0
+slovenia,SI,SI-185,Trnovska Vas,0,0,0
+slovenia,SI,SI-186,Trzin,0,0,0
+slovenia,SI,SI-131,Trzic,0,0,0
+slovenia,SI,SI-132,Turnisce,0,0,0
+slovenia,SI,SI-133,Velenje,0,0,0
+slovenia,SI,SI-187,Velika Polana,0,0,0
+slovenia,SI,SI-134,Velike Lasce,0,0,0
+slovenia,SI,SI-188,Verzej,0,0,0
+slovenia,SI,SI-135,Videm,0,0,0
+slovenia,SI,SI-136,Vipava,0,0,0
+slovenia,SI,SI-137,Vitanje,0,0,0
+slovenia,SI,SI-138,Vodice,0,0,0
+slovenia,SI,SI-139,Vojnik,0,0,0
+slovenia,SI,SI-189,Vransko,0,0,0
+slovenia,SI,SI-140,Vrhnika,0,0,0
+slovenia,SI,SI-141,Vuzenica,0,0,0
+slovenia,SI,SI-142,Zagorje ob Savi,0,0,0
+slovenia,SI,SI-143,Zavrc,0,0,0
+slovenia,SI,SI-144,Zrece,0,0,0
+slovenia,SI,SI-015,Crensovci,0,0,0
+slovenia,SI,SI-016,Crna na Koroskem,0,0,0
+slovenia,SI,SI-017,Crnomelj,0,0,0
+slovenia,SI,SI-033,Salovci,0,0,0
+slovenia,SI,SI-183,Sempeter-Vrtojba,0,0,0
+slovenia,SI,SI-118,Sentilj,0,0,0
+slovenia,SI,SI-119,Sentjernej,0,0,0
+slovenia,SI,SI-120,Sentjur,0,0,0
+slovenia,SI,SI-211,Sentrupert,0,0,0
+slovenia,SI,SI-117,Sencur,0,0,0
+slovenia,SI,SI-121,Skocjan,0,0,0
+slovenia,SI,SI-122,Skofja Loka,0,0,0
+slovenia,SI,SI-123,Skofljica,0,0,0
+slovenia,SI,SI-124,Smarje pri Jelsah,0,0,0
+slovenia,SI,SI-206,Smarjeske Toplice,0,0,0
+slovenia,SI,SI-125,Smartno ob Paki,0,0,0
+slovenia,SI,SI-194,Smartno pri Litiji,0,0,0
+slovenia,SI,SI-126,Sostanj,0,0,0
+slovenia,SI,SI-127,Store,0,0,0
+slovenia,SI,SI-190,Zalec,0,0,0
+slovenia,SI,SI-146,Zelezniki,0,0,0
+slovenia,SI,SI-191,Zetale,0,0,0
+slovenia,SI,SI-147,Ziri,0,0,0
+slovenia,SI,SI-192,Zirovnica,0,0,0
+slovenia,SI,SI-193,Zuzemberk,0,0,0

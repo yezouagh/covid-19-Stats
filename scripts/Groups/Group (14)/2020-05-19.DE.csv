@@ -1,0 +1,17 @@
+Country name,Country Code,State,State name,Confirmed,Recovered,Deaths
+germany,DE,DE-BB,Brandenburg,0,0,0
+germany,DE,DE-BE,Berlin,0,0,0
+germany,DE,DE-BW,Baden-Wurttemberg,0,0,0
+germany,DE,DE-BY,Bavaria,0,0,0
+germany,DE,DE-HB,Bremen,0,0,0
+germany,DE,DE-HE,Hesse,0,0,0
+germany,DE,DE-HH,Hamburg,0,0,0
+germany,DE,DE-MV,Mecklenburg-Western Pomerania,0,0,0
+germany,DE,DE-NI,Lower Saxony,0,0,0
+germany,DE,DE-NW,North Rhine-Westphalia,0,0,0
+germany,DE,DE-RP,Rhineland-Palatinate,0,0,0
+germany,DE,DE-SH,Schleswig-Holstein,0,0,0
+germany,DE,DE-SL,Saarland,0,0,0
+germany,DE,DE-SN,Saxony,0,0,0
+germany,DE,DE-ST,Sachsen-Anhalt,0,0,0
+germany,DE,DE-TH,Thuringia,0,0,0

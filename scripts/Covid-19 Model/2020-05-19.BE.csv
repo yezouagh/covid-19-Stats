@@ -1,0 +1,12 @@
+Country name,Country Code,State,State name,Confirmed,Recovered,Deaths
+belgium,BE,BE-VAN,Antwerpen,0,0,0
+belgium,BE,BE-WBR,Walloon Brabant,0,0,0
+belgium,BE,BE-BRU,Brussels Capital Region,0,0,0
+belgium,BE,BE-WHT,Hainaut,0,0,0
+belgium,BE,BE-WLG,Liege,0,0,0
+belgium,BE,BE-VLI,Limburg,0,0,0
+belgium,BE,BE-WLX,Luxembourg,0,0,0
+belgium,BE,BE-VOV,East Flanders,0,0,0
+belgium,BE,BE-WNA,Namur,0,0,0
+belgium,BE,BE-VBR,Flemish Brabant,0,0,0
+belgium,BE,BE-VWV,West Flanders,0,0,0

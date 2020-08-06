@@ -1,0 +1,33 @@
+Country name,Country Code,State,State name,Confirmed,Recovered,Deaths
+mexico,MX,MX-ZAC,Zacatecas,0,0,0
+mexico,MX,MX-YUC,Yucatan,0,0,0
+mexico,MX,MX-VER,Veracruz,0,0,0
+mexico,MX,MX-TLA,Tlaxcala,0,0,0
+mexico,MX,MX-TAM,Tamaulipas,0,0,0
+mexico,MX,MX-TAB,Tabasco,0,0,0
+mexico,MX,MX-SON,Sonora,0,0,0
+mexico,MX,MX-SIN,Sinaloa,0,0,0
+mexico,MX,MX-SLP,San Luis Potosi,0,0,0
+mexico,MX,MX-ROO,Quintana Roo,0,0,0
+mexico,MX,MX-QUE,Queretaro,0,0,0
+mexico,MX,MX-PUE,Puebla,0,0,0
+mexico,MX,MX-OAX,Oaxaca,0,0,0
+mexico,MX,MX-NLE,Nuevo Leon,0,0,0
+mexico,MX,MX-NAY,Nayarit,0,0,0
+mexico,MX,MX-MOR,Morelos,0,0,0
+mexico,MX,MX-MIC,Michoacan,0,0,0
+mexico,MX,MX-MEX,Mexico,0,0,0
+mexico,MX,MX-JAL,Jalisco,0,0,0
+mexico,MX,MX-HID,Hidalgo,0,0,0
+mexico,MX,MX-GRO,Guerrero,0,0,0
+mexico,MX,MX-GUA,Guanajuato,0,0,0
+mexico,MX,MX-DUR,Durango,0,0,0
+mexico,MX,MX-CMX,Ciudad de Mexico,0,0,0
+mexico,MX,MX-COL,Colima,0,0,0
+mexico,MX,MX-COA,Coahuila,0,0,0
+mexico,MX,MX-CHH,Chihuahua,0,0,0
+mexico,MX,MX-CHP,Chiapas,0,0,0
+mexico,MX,MX-CAM,Campeche,0,0,0
+mexico,MX,MX-BCS,Baja California Sur,0,0,0
+mexico,MX,MX-BCN,Baja California,0,0,0
+mexico,MX,MX-AGU,Aguascalientes,0,0,0
